@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TengQinglong
+- 👋 Hi, I’m @Qinglong
 - 👀 I’m interested in Computer Vision & Deep Learning
 - 🌱 I’m currently learning DETR/ViT
 - 📫 How to reach me None
